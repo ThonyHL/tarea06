@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thony\\OneDrive\\Desktop\\repositorio\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thony\\OneDrive\\Desktop\\repositorio\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thony\\OneDrive\\Desktop\\repositorio\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\thony\\OneDrive\\Desktop\\repositorio\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\thony\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thony\\OneDrive\\Desktop\\repositorio\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\jjpsp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jjpsp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
