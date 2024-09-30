@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\",
+  "WorkspaceRootPath": "C:\\Users\\PC2021\\Desktop\\Tarea06\\tarea06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAE14100-5301-47B0-842B-4571027A5592}|WebApplication1\\WebApplication1.csproj|c:\\users\\jjpsp\\onedrive\\escritorio\\sesion\\tarea06\\webapplication1\\controllers\\plasencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FAE14100-5301-47B0-842B-4571027A5592}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc2021\\desktop\\tarea06\\tarea06\\webapplication1\\controllers\\castillocaballero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE14100-5301-47B0-842B-4571027A5592}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\castillocaballero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE14100-5301-47B0-842B-4571027A5592}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc2021\\desktop\\tarea06\\tarea06\\webapplication1\\controllers\\plasencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAE14100-5301-47B0-842B-4571027A5592}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\plasencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAE14100-5301-47B0-842B-4571027A5592}|WebApplication1\\WebApplication1.csproj|c:\\users\\jjpsp\\onedrive\\escritorio\\sesion\\tarea06\\webapplication1\\controllers\\herrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FAE14100-5301-47B0-842B-4571027A5592}|WebApplication1\\WebApplication1.csproj|c:\\users\\pc2021\\desktop\\tarea06\\tarea06\\webapplication1\\controllers\\herrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAE14100-5301-47B0-842B-4571027A5592}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\herrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,28 +27,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Castillocaballero.cs",
+              "DocumentMoniker": "C:\\Users\\PC2021\\Desktop\\Tarea06\\tarea06\\WebApplication1\\Controllers\\Castillocaballero.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\Castillocaballero.cs",
+              "ToolTip": "C:\\Users\\PC2021\\Desktop\\Tarea06\\tarea06\\WebApplication1\\Controllers\\Castillocaballero.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\Castillocaballero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:58:17.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PLASENCIA.cs",
-              "DocumentMoniker": "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\Controllers\\PLASENCIA.cs",
+              "DocumentMoniker": "C:\\Users\\PC2021\\Desktop\\Tarea06\\tarea06\\WebApplication1\\Controllers\\PLASENCIA.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PLASENCIA.cs",
-              "ToolTip": "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\Controllers\\PLASENCIA.cs",
+              "ToolTip": "C:\\Users\\PC2021\\Desktop\\Tarea06\\tarea06\\WebApplication1\\Controllers\\PLASENCIA.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\PLASENCIA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T22:39:22.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "herrera.cs",
-              "DocumentMoniker": "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\Controllers\\herrera.cs",
+              "DocumentMoniker": "C:\\Users\\PC2021\\Desktop\\Tarea06\\tarea06\\WebApplication1\\Controllers\\herrera.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\herrera.cs",
-              "ToolTip": "C:\\Users\\jjpsp\\OneDrive\\Escritorio\\SESION\\tarea06\\WebApplication1\\Controllers\\herrera.cs",
+              "ToolTip": "C:\\Users\\PC2021\\Desktop\\Tarea06\\tarea06\\WebApplication1\\Controllers\\herrera.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\herrera.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T23:59:29.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T23:59:29.407Z"
             }
           ]
         }
